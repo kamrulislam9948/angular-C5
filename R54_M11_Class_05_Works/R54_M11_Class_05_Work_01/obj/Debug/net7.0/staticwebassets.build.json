@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "uPdq4yIUYwoztidVxHSBF0aUx7KWmzPzRlJlkYdMB18=",
+  "Source": "R54_M11_Class_05_Work_01",
+  "BasePath": "_content/R54_M11_Class_05_Work_01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "R54_M11_Class_05_Work_01\\wwwroot",
+      "Source": "R54_M11_Class_05_Work_01",
+      "ContentRoot": "D:\\R54\\M11\\Class 05\\R54_M11_Class_05_Works\\R54_M11_Class_05_Work_01\\wwwroot\\",
+      "BasePath": "_content/R54_M11_Class_05_Work_01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\R54\\M11\\Class 05\\R54_M11_Class_05_Works\\R54_M11_Class_05_Work_01\\wwwroot\\Pictures\\ypo0qs34.jpg",
+      "SourceId": "R54_M11_Class_05_Work_01",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\R54\\M11\\Class 05\\R54_M11_Class_05_Works\\R54_M11_Class_05_Work_01\\wwwroot\\",
+      "BasePath": "_content/R54_M11_Class_05_Work_01",
+      "RelativePath": "Pictures/ypo0qs34.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\ypo0qs34.jpg"
+    }
+  ]
+}
